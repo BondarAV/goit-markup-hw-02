@@ -23,7 +23,7 @@
     font-style: normal;
     font-weight: 800;
     font-size: 18px;
-    line-height: 24px;
+    line-height: 1.33;
 
     letter-spacing: 0.03em;
     text-transform: uppercase;
@@ -42,7 +42,7 @@
     font-style: normal;
     font-weight: 600;
     font-size: 16px;
-    line-height: 24px;
+    line-height: 1.5;
 
     color: var(--main-text-color);
 
@@ -58,7 +58,7 @@
     font-family: 'Roboto', sans-serif;
     font-style: normal;
     font-weight: 400;
-    line-height: 24px;
+    line-height: 1.5px;
 
     color: var(---secondary-text-color);
 }
@@ -75,7 +75,7 @@
 .hero .hero-title {
     font-weight: 600;
     font-size: 56px;
-    line-height: 60px;
+    line-height: 1.07;
 
     text-align: center;
 
@@ -87,7 +87,7 @@
     font-style: normal;
     font-weight: 600;
     font-size: 16px;
-    line-height: 19px;
+    line-height: 1.18;
 
     align-items: center;
     letter-spacing: 0.04em;
@@ -122,13 +122,13 @@
 .portfolio-section .title {
     font-weight: 600;
     font-size: 20px;
-    line-height: 24px;
+    line-height: 1.2;
 }
 
 .benefits-section .paragraph,
 .portfolio-section .paragraph {
     font-weight: 400;
-    line-height: 24px;
+    line-height: 1.5;
 
     color: var(---secondary-text-color);
 }
@@ -136,7 +136,7 @@
 .what-are-we-doing-section .title {
     font-weight: 600;
     font-size: 36px;
-    line-height: 40px;
+    line-height: 1.11;
     
     text-align: center;
 }
@@ -144,7 +144,7 @@
 .our-team-section > .title {
     font-weight: 600;
     font-size: 36px;
-    line-height: 40px;
+    line-height: 1.11;
     
     text-align: center;
 }
@@ -152,13 +152,13 @@
 .our-team-list .title {
     font-weight: 600;
     font-size: 20px;
-    line-height: 24px;
+    line-height: 1.2;
 }
 
 .our-team-list .paragraph {
     font-weight: 400;
     font-size: 16px;
-    line-height: 24px;
+    line-height: 1.5;
 
     color: var(---secondary-text-color);
 }
@@ -172,7 +172,7 @@
     font-style: normal;
     font-weight: 800;
     font-size: 18px;
-    line-height: 21px;
+    line-height: 1.16;
 
     letter-spacing: 0.03em;
     text-transform: uppercase;
@@ -186,7 +186,7 @@
 
 .footer .paragraph {
     font-weight: 400;
-    line-height: 24px;
+    line-height: 1.5;
 
     color: #E7E9FC;
 }
@@ -196,7 +196,7 @@
     font-style: normal;
     font-weight: 600;
     font-size: 16px;
-    line-height: 24px;
+    line-height: 1.5;
 
     letter-spacing: 0.04em;
 
