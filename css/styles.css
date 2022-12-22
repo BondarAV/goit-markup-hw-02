@@ -6,7 +6,6 @@
     ---white-color: #FFFFFF;
     --main-background-color: #F4F4FD;
     --secondary-background-color: #E7E9FC;
-    --another-background-color: #E5E5E5;
 
     --main-font: 'Roboto', sans-serif;
     --secondary-font: 'Raleway', sans-serif;
@@ -112,10 +111,6 @@ body{
     background-color: var(--dark-accent-color);
 }
 
-.benefits-section {
-    background-color: var(--another-background-color);
-}
-
 .benefits-section .hidden-title {
     position: absolute;
     width: 1px;
@@ -144,10 +139,6 @@ body{
     line-height: 1.5;
 
     color: var(---secondary-text-color);
-}
-
-.what-are-we-doing-section {
-    background-color: var(--another-background-color);
 }
 
 .what-are-we-doing-section .title {
@@ -232,10 +223,6 @@ body{
     border-radius: 4px;
 
     cursor: pointer;
-}
-
-.portfolio-section {
-    background-color: var(--another-background-color);
 }
 
 .tab-list .button:hover,
